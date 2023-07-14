@@ -1,0 +1,102 @@
+body{
+    background-color: rgb(68, 177, 83);
+}
+h1{
+    text-align: center;
+    text-shadow: 4px 4px rgb(192, 65, 65);
+}
+.man{
+    
+    margin-left: 500px;
+background-color: red;
+    height: 200px;
+    width: 190px;
+   border-radius: 100%;
+   border-style:double;
+   border: 3px solid black;
+   
+}
+
+
+.man:hover{
+    
+    margin-left: 500px;
+background-color: rgb(190, 30, 142);
+    height: 250px;
+    width: 200px;
+   border-radius: 100%;
+   border-style:double;
+   border: 3px solid black;
+   
+}
+.bala{
+    text-align: center;
+    font-size: 30px;
+}
+
+
+
+.eye1{
+    border: 3px solid black;
+    background-color: black;
+    height: 30px;
+    margin-top: 45px;
+     margin-left: 35px;
+    width: 30px;
+    border-radius: 100%;
+}
+.eye2{
+    border: 3px solid black;
+    background-color: black;
+    width: 30px;
+    border-radius: 100%;
+    margin-left: 120px;
+    margin-top: -35px;
+    height: 30px;
+
+}
+.mouth{
+      
+    border: 3px solid black;
+    width: 68px;
+    border-radius: 100px 100px 7px 7px;
+    height: 20px;
+   margin-left:58px;
+margin-top: -143px;
+   text-align: center;
+   background-color: black;
+
+}
+.eye3{
+    border: 3px solid black;
+    background-color: black;
+    height: 20px;
+    width: 20px;
+    border-radius: 100%;
+margin-bottom: 150px;
+    margin-left: 55px;
+}
+
+
+#kulandai{
+       border: 2px solid black;
+       height: 200px;
+     width: 1px;
+     background-color: black;
+     margin-left: 90px;
+     margin-top: -305px;
+}
+
+.sha{
+    margin-top: 90px;
+}
+.eye4{
+    border:3px solid black;
+    background-color: black;
+    height: 20px;
+    width:20px;
+    border-radius: 100%;
+    margin-left: 105px;
+margin-top:-75px;
+
+}
